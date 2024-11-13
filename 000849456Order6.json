@@ -1,0 +1,33 @@
+{
+  "SchemaVersion": "V2.F23",
+  "SubTotal": 155.54,
+  "TaxAmount": 0,
+  "GrandTotal": 155.54,
+  "OrderId": "123ABC",
+  "EmailAddress": "000849456@mohawkcollege.ca",
+  "CustomerName": "Chris Dent",
+  "CreditCardNumber": "4356 2234 6789 2321",
+  "Items": [
+    {
+      "Name": "Dune",
+      "UnitPrice": 11.11,
+      "SalePrice": 11.11,
+      "Quantity": 1,
+      "TotalPrice": 11.11
+    },
+    {
+      "Name": "Dune 2",
+      "UnitPrice": 22.22,
+      "SalePrice": 22.22,
+      "Quantity": 2,
+      "TotalPrice": 44.44
+    },
+    {
+      "Name": "All Quiet on the Western Front",
+      "UnitPrice": 33.33,
+      "SalePrice": 33.33,
+      "Quantity": 3,
+      "TotalPrice": 99.99
+    }
+  ]
+}
